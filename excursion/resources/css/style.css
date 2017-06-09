@@ -1,0 +1,30 @@
+body{
+  text-align:center;
+  font-family: verdana;
+  background-color: black;
+}
+#discover{
+
+  font-weight: normal;
+  font-size: 50px;
+  color:white;
+}
+#download{
+  color: aquamarine;
+  font-size: 16px;
+
+}
+#personal, #comingsoon{
+  font-weight: 300;
+  font-size:42px;
+}
+#remember{
+  color:gray;
+  font-size: 21px;
+}
+
+#excursion{
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
